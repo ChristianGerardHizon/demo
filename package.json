@@ -2,10 +2,10 @@
   "name": "blue_champion_json",
   "version": "1.0.0",
   "description": "[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)",
-  "main": "json-server db.json --routes routes.json",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server db.json --routes routes.json"
+    "start": "node index.js "
   },
   "repository": {
     "type": "git",
