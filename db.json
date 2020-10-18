@@ -1,47 +1,4 @@
 {
-  "comments": [
-    {
-      "data": "Hello from Phils",
-      "newsfeed_id": 1,
-      "user_id": 1,
-      "user_name": "user sample",
-      "id": 1
-    }
-  ],
-  "newsfeed": [
-    {
-      "title": "Making trucks efficient isn't hard to do",
-      "id": 1,
-      "like_count": 2,
-      "summary": "In the past six years, the obama administration made a major a major effort to...",
-      "time": "an hour ago.",
-      "image": "https://drive.google.com/thumbnail?id=164njNLGxoJL4zK_FgNp8pP6H8-eCCxum",
-      "user_name": "Alexa Smith",
-      "user_image": "https://picsum.photos/seed/picsum/200/300",
-      "comment_count": 10,
-      "comments": []
-    },
-    {
-      "title": "World's first smart car headlights that can see through the heaviest rain or snow.",
-      "id": 2,
-      "like_count": 80,
-      "summary": "Driving through torrential rain or a heavy blizzard at night can produce some of the most dangerous conditions faced by motorists on the roads. But new technology developed by scientists promises to make driving through storms after dark a little bit safer.",
-      "time": "yesterday",
-      "image": "https://i.dailymail.co.uk/i/pix/2017/07/03/11/41FD0C3100000578-4660902-image-a-68_1499076613335.jpg",
-      "user_name": "Richard Gray",
-      "user_image": "https://picsum.photos/200/300?random=3",
-      "comment_count": 30
-    },
-    {
-      "title": "World's first smart car headlights that can see through the heaviest rain or snow.",
-      "like_count": 80,
-      "summary": "Driving through torrential rain or a heavy blizzard at night can produce some of the most dangerous conditions faced by motorists on the roads. But new technology developed by scientists promises to make driving through storms after dark a little bit safer.",
-      "time": "yesterday",
-      "image": "https://i.dailymail.co.uk/i/pix/2017/07/03/11/41FD0C3100000578-4660902-image-a-68_1499076613335.jpg",
-      "user_name": "Richard Gray",
-      "user_image": "https://picsum.photos/200/300?random=3",
-      "comment_count": 30,
-      "id": 3
-    }
-  ]
+  "comments": [],
+  "newsfeed": []
 }
