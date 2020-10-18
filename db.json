@@ -4,46 +4,46 @@
     {
       "title": "Making trucks efficient isn't hard to do",
       "id": 1,
-      "like_count": 2,
+      "likeCount": 2,
       "summary": "In the past six years, the obama administration made a major a major effort to...",
       "time": "an hour ago.",
       "image": "https://drive.google.com/thumbnail?id=164njNLGxoJL4zK_FgNp8pP6H8-eCCxum",
-      "user_name": "Alexa Smith",
-      "user_image": "https://picsum.photos/seed/picsum/200/300",
-      "comment_count": 10
+      "userName": "Alexa Smith",
+      "userImage": "https://picsum.photos/seed/picsum/200/300",
+      "commentCount": 10
     },
     {
       "title": "World's first smart car headlights that can see through the heaviest rain or snow.",
       "id": 3,
-      "like_count": 80,
+      "likeCount": 80,
       "summary": "Driving through torrential rain or a heavy blizzard at night can produce some of the most dangerous conditions faced by motorists on the roads. But new technology developed by scientists promises to make driving through storms after dark a little bit safer.",
       "time": "yesterday",
       "image": "https://i.dailymail.co.uk/i/pix/2017/07/03/11/41FD0C3100000578-4660902-image-a-68_1499076613335.jpg",
-      "user_name": "Richard Gray",
-      "user_image": "https://picsum.photos/200/300?random=3",
-      "comment_count": 30
+      "userName": "Richard Gray",
+      "userImage": "https://picsum.photos/200/300?random=3",
+      "commentCount": 30
     },
     {
       "title": "Toyota enters class 8 electrification contest.",
       "id": 2,
-      "like_count": 200,
+      "likeCount": 200,
       "summary": "In this episode, we cover Toyota looking to get into the Class 8 electric truck market, border patrol sends a drug-smuggling attempt down the drain when they search a shipment of toilets and the public is asked to weigh in on several FMCSA petitions regarding broker transparency, plus the CAT Scale Rig of the Week.",
       "time": "yesterday",
       "image": "https://picsum.photos/seed/picsum/400/300",
-      "user_name": "Tucker Russ",
-      "user_image": "https://www.thetrucker.com/wp-content/uploads/2020/06/trucker-150x150.jpg",
-      "comment_count": 1000
+      "userName": "Tucker Russ",
+      "userImage": "https://www.thetrucker.com/wp-content/uploads/2020/06/trucker-150x150.jpg",
+      "commentCount": 1000
     },
     {
       "title": "Traxen’s adaptive AI-based cruise control offers enhanced safety plus fuel savings",
       "id": 2,
-      "like_count": 200,
+      "likeCount": 200,
       "summary": "PLYMOUTH, Mich. — Traxen, a metro Detroit-based trucking-industry technology company has launched an intelligent adaptive cruise control system, iQ-Cruise, designed for both traditional and...",
       "time": "yesterday",
       "image": "https://www.thetrucker.com/wp-content/uploads/2020/10/Traxen-Truck-web.jpg",
-      "user_name": "Tucker Russ",
-      "user_image": "https://www.thetrucker.com/wp-content/uploads/2020/06/trucker-150x150.jpg",
-      "comment_count": 3000
+      "userName": "Tucker Russ",
+      "userImage": "https://www.thetrucker.com/wp-content/uploads/2020/06/trucker-150x150.jpg",
+      "commentCount": 3000
     }
   ]
 }
