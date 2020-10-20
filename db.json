@@ -1,5 +1,66 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "id": 1,
+      "newsfeedId": 1,
+      "comment": "Thats nice",
+      "likeCount": 0,
+      "createdAt": "2020-10-20T04:27:21.000000Z"
+    },
+    {
+      "id": 2,
+      "newsfeedId": 1,
+      "comment": "Nice comment",
+      "likeCount": 0,
+      "createdAt": "2020-10-20T04:27:21.000000Z"
+    },
+    {
+      "id": 2,
+      "newsfeedId": 1,
+      "comment": "Thats great for our business.",
+      "likeCount": 0,
+      "createdAt": "2020-10-20T04:27:21.000000Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "uid": "cp9PustdthN5VLnqBZSB8qh8tI22",
+      "email": "alexa@gmail.com",
+      "firstName": "Alexa ",
+      "middleName": null,
+      "lastName": "Smith",
+      "avatar": "https://picsum.photos/seed/alexa-avatar/200/300",
+      "coverImage": "https://picsum.photos/seed/alex-cover/200/300",
+      "gender": "female",
+      "birthdate": "2020-10-20T04:27:21.000000Z",
+      "active": "1",
+      "relationship": "single",
+      "about": "nothing much",
+      "friends": 460,
+      "followers": 23,
+      "createdAt": "2020-10-20T04:27:21.000000Z",
+      "updatedAt": "2020-10-20T04:27:21.000000Z"
+    },
+    {
+      "id": 2,
+      "uid": "cp9PustdthN5VLnqBZSB8qh8tI22",
+      "email": "richardgrey@gmail.com",
+      "firstName": "Richard ",
+      "middleName": null,
+      "lastName": "Grey",
+      "avatar": "https://picsum.photos/seed/richard-avata/200/300",
+      "coverImage": "https://picsum.photos/seed/richard-cover/200/300",
+      "gender": "male",
+      "active": "1",
+      "relationship": "single",
+      "about": null,
+      "friends": 5394,
+      "followers": 2,
+      "createdAt": "2020-10-20T04:27:21.000000Z",
+      "updatedAt": "2020-10-20T04:27:21.000000Z"
+    }
+  ],
   "newsfeed": [
     {
       "title": "Making trucks efficient isn't hard to do",
@@ -10,7 +71,9 @@
       "image": "https://drive.google.com/thumbnail?id=164njNLGxoJL4zK_FgNp8pP6H8-eCCxum",
       "userName": "Alexa Smith",
       "userImage": "https://picsum.photos/seed/picsum/200/300",
-      "commentCount": 10
+      "commentCount": 10,
+      "createdAt": "2020-10-20T04:27:21.000000Z",
+      "updatedAt": "2020-10-20T04:27:21.000000Z"
     },
     {
       "title": "World's first smart car headlights that can see through the heaviest rain or snow.",
@@ -21,7 +84,9 @@
       "image": "https://i.dailymail.co.uk/i/pix/2017/07/03/11/41FD0C3100000578-4660902-image-a-68_1499076613335.jpg",
       "userName": "Richard Gray",
       "userImage": "https://picsum.photos/200/300?random=3",
-      "commentCount": 30
+      "commentCount": 30,
+      "createdAt": "2020-10-20T04:27:21.000000Z",
+      "updatedAt": "2020-10-20T04:27:21.000000Z"
     },
     {
       "title": "Toyota enters class 8 electrification contest.",
@@ -32,7 +97,9 @@
       "image": "https://picsum.photos/seed/picsum/400/300",
       "userName": "Tucker Russ",
       "userImage": "https://www.thetrucker.com/wp-content/uploads/2020/06/trucker-150x150.jpg",
-      "commentCount": 1000
+      "commentCount": 1000,
+      "createdAt": "2020-10-20T04:27:21.000000Z",
+      "updatedAt": "2020-10-20T04:27:21.000000Z"
     },
     {
       "title": "Traxen’s adaptive AI-based cruise control offers enhanced safety plus fuel savings",
@@ -43,7 +110,9 @@
       "image": "https://www.thetrucker.com/wp-content/uploads/2020/10/Traxen-Truck-web.jpg",
       "userName": "Tucker Russ",
       "userImage": "https://www.thetrucker.com/wp-content/uploads/2020/06/trucker-150x150.jpg",
-      "commentCount": 3000
+      "commentCount": 3000,
+      "createdAt": "2020-10-20T04:27:21.000000Z",
+      "updatedAt": "2020-10-20T04:27:21.000000Z"
     }
   ]
 }
